@@ -1,4 +1,4 @@
 # PCB-Workshop
 SurreyEARS workshop on designing simple development boards - "gEARS".
 
-!(http://i.imgur.com/pAfqJ5G.png)
+![Board Image](http://i.imgur.com/pAfqJ5G.png)
